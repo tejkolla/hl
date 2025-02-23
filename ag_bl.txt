@@ -1,2 +1,2 @@
-# block list
-info.cspserver.net
+! block list
+||info.cspserver.net
